@@ -1,4 +1,4 @@
-# Obsidian Notes
+# Arbeiten mit GitHub
 
 Publish your public notes with MkDocs
 
